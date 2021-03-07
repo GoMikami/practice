@@ -1,0 +1,2 @@
+module TownArticlesHelper
+end
